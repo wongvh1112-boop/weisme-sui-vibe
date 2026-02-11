@@ -41,11 +41,11 @@ To run this project on your local machine, follow these steps:
    npm install
 
 3.Run the development server
- ```bash
-  npm run dev
+   npm run dev
 
 4.Open in browser
 Open http://localhost:3000 to see the application.
+
 
 🏆 Hackathon Participation & Compliance
 This project is submitted for the Vibe Sui Spring Fest 2026.
